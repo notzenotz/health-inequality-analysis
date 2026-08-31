@@ -4,7 +4,7 @@ Analisis ketersediaan fasilitas kesehatan di 38 provinsi Indonesia, menggabungka
 
 **Alat:** PostgreSQL 17, pgAdmin 4, Power BI Desktop
 
-![Dashboard](dashboard.png)
+![dashboard](health_dashboard.png)
 
 ---
 
